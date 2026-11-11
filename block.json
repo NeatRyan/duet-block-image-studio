@@ -1,0 +1,7 @@
+{
+  "name": "Image Studio",
+  "icon": "sparkles",
+  "description": "Create and edit images with connected tools, project looks, references and a saved gallery.",
+  "duet": 1,
+  "widget": true
+}
